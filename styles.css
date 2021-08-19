@@ -1,3 +1,11 @@
+body {
+  padding-bottom: 10px;
+}
+
+.container {
+  margin-bottom: 20px;
+}
+
 .resume .resume-title {
     font-size: 26px;
     font-weight: 700;
@@ -56,10 +64,8 @@
     border: 2px solid #1f5297;
   }
 
-
-
   #footer {
-    background: url("../img/footer-bg.jpg") top center no-repeat;
+    background-image: url("https://media.istockphoto.com/photos/programmer-working-with-program-code-picture-id1075599562?k=6&m=1075599562&s=612x612&w=0&h=GGYUzdB_T4zA5N9eroCHkW7NgWYj117Tg8zKi1_UE4A=");
     background-size: cover;
     color: #fff;
     font-size: 14px;
@@ -130,5 +136,4 @@
   
   #footer .credits {
     font-size: 13px;
-  }
-
+  } 
